@@ -1,3 +1,4 @@
+tutorial https://scotch.io/tutorials/scraping-the-web-with-node-js
 NODEJS
 single request to IMDB and get:name of a movie, release year, and IMDB community rating
 url: https://www.imdb.com/title/tt1229340/
